@@ -18,6 +18,8 @@ related_documents:
 
 # 🤖 AI Models Wiki
 
+![alt text](assets/repo-banner.jpg)
+
 [![Astro](https://img.shields.io/badge/Framework-Astro-FF5D01?logo=astro)](https://astro.build/)
 [![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?logo=typescript)](https://www.typescriptlang.org/)
